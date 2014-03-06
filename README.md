@@ -5,6 +5,5 @@ A quick example of CSV file reading using Python. Mainly provided as a resource 
 
 The code prompts me to enter "uptown" or "downtown" so I can figure out the next G train that's leaving from my house. 
 
-Likely the first in a series of Anna examples. 
 
  
